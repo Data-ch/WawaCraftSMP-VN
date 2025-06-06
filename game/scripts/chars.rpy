@@ -1,7 +1,6 @@
 init offset = -900
 
 define maxine = Character(_("Maxine"), color="#ffffff")
-define sapph = Character(_("Sapphiric"), color="#ffffff")
 define lern = Character(_("Lerneaa"), color="#8ae8a8")
 define kath = Character(_("Kathleen"), color="##ff8bca")
 define xade = Character(_("Xade"), color="##ff0000")
